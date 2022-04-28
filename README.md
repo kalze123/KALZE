@@ -1,7 +1,8 @@
 # KALZE
 welcome to github kalze
 
-**CARA PASANG**
+#CARA PASANG#
+
 pkg update && pkg upgrade
 pkg install python
 pkg install git
